@@ -149,7 +149,13 @@ XNOVA — Solana Web3 Intelligence Terminal<br><br>Open-source terminal for the 
 
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xnovasolana) [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?logo=telegram&logoColor=white)](https://web.telegram.org/k/#@XNOVASOLANAMARKET)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xnovasolana)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?logo=telegram&logoColor=white)](https://web.telegram.org/k/#@XNOVASOLANAMARKET)
+[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?logo=discord&logoColor=white)](https://discord.gg/WgFnMJzkAs)
+[![Lovable](https://img.shields.io/badge/Lovable-FF69B4.svg?logo=lovable&logoColor=white)](https://xnovasolanax.lovable.app/)
+[![Vercel](https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white)](https://xnovasolanax.vercel.app/)
+[![GitBook](https://img.shields.io/badge/GitBook-FFFFFF.svg?logo=gitbook&logoColor=black)](https://dogekingmike.gitbook.io/xnova/)
+[![XNOVA Wallet](https://img.shields.io/badge/XNOVA%20Wallet-000000.svg?logo=solana&logoColor=white)](https://xnovaterminal.lovable.app/markets)
 # 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
 
