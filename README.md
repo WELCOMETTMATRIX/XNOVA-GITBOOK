@@ -9,6 +9,7 @@ every buy and sell.
 - DexScreener: https://dexscreener.com/solana/6xwpjsscvhpmaigzstcbm95rmbmqmzperrysxfspynht
 - Pump.fun: https://pump.fun/coin/9RwukCBfqoXb4XaqDvchKs8LhSmbbdcVik1S9h47pump
 - Website: https://xnovasolanax.vercel.app/
+- Jupiter: https://jup.ag/tokens/9RwukCBfqoXb4XaqDvchKs8LhSmbbdcVik1S9h47pump
 
 ## Principles
 
